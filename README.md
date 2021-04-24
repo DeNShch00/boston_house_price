@@ -8,7 +8,7 @@
 
 ## Модель
 
-> [model.ipynb](https://github.com/DeNShch00/geekbrains/blob/ml_business/ml_business/course_project/model/model.ipynb)
+> [model.ipynb](https://github.com/DeNShch00/boston_house_price/blob/main/model/model.ipynb)
 
 Модель представляет из себя регрессию, определяющую цену на недвижимость, в качестве алгоритма  взят RandomForestRegressor.
 Модель обучена на встроенном в **sklearn.datasets** датасете, который можно получить, вызвав метод **load_boston**. 
